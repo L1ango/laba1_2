@@ -1,1 +1,2 @@
-# laba1_2
+# Egor Liango
+272302
