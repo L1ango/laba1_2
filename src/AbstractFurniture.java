@@ -1,3 +1,4 @@
+aaa
 abstract class AbstractFurniture implements Furniture, Object {
     protected String manufacturer;
     protected double price;
